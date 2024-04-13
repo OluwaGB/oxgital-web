@@ -438,14 +438,15 @@ header{margin-top:10px;
         place-items: center;
         place-content: center;
         text-align:center;
-        padding:10px;
+        padding:13px;
     }
     #header{
         text-align: center;
         /*place-content: center;*/
     }
     #fcolumn1{text-align: center;
-    place-items: center;}
+    place-items: center;
+place-content: center;}
     #sct2,#sct3,#inputs,#flexImg1,#subsct3{
         display:grid;
         place-items: center;
@@ -545,6 +546,7 @@ header{margin-top:10px;
     #fcolumn1{
         place-content: center;
         text-align:center;
+        place-items: center;
     }
 }
 
