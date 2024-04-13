@@ -144,7 +144,7 @@ text-decoration: none;
 #sct1,#sct7{
     background-image: url("img/precious4.jpg");
     background-blend-mode: overlay;
-    background-color:rgb(12, 12, 12);
+    background-color:rgb(26, 25, 25);
    /* opacity:;*/
     padding:30px;
     background-repeat: no-repeat;
@@ -547,6 +547,10 @@ place-content: center;}
         place-content: center;
         text-align:center;
         place-items: center;
+    }
+    #fcolumn1 a{
+        text-align: center;
+        color:#ddac17;
     }
 }
 
