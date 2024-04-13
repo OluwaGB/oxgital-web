@@ -542,5 +542,9 @@ header{margin-top:10px;
     #center{
         font-size: 24px;
     }
+    #fcolumn1{
+        place-content: center;
+        text-align:center;
+    }
 }
 
