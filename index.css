@@ -397,6 +397,10 @@ header{margin-top:10px;
         text-align: center;
         display:grid;
     }
+    #logo{
+        width:30%;
+        height:30%;
+    }
     nav{
         display:block;
         display:grid;
@@ -422,7 +426,7 @@ header{margin-top:10px;
     }
     nav{
         display:block;
-        display:grid;
+        display:flex;
         float:center;
     }
     nav button{display:block;}
