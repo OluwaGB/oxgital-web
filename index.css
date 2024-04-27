@@ -397,6 +397,11 @@ header{margin-top:10px;
         text-align: center;
         display:grid;
     }
+    nav{
+        display:block;
+        display:grid;
+        float:left;
+    }
     #sct1{
         width:100%;
     }

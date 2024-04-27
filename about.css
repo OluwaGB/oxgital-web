@@ -190,3 +190,17 @@
     #label h2{
         color:black;
     }
+    @media screen  and (max-width:780px){
+        body{background-color: red;
+            color: #ddac17;
+            display: grid;
+            place-content: center;
+            text-align: center;
+        }
+        #footer{
+            display:grid;
+            place-content: center;
+            text-align: center;
+            color:#ddac17;
+        }
+    }
